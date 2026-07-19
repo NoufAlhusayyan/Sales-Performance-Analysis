@@ -103,10 +103,11 @@ Features:
 ![Product Analysis](PowerBI/Screenshots/Product%20Analysis.png)
 ---
 # 📌 Key Insights
-- Electronics generated the highest sales.
-- A small group of customers contributed a significant portion of total profit.
-- Higher discounts were associated with lower profit margins.
-- Monthly sales showed noticeable seasonal fluctuations.
+- The business generated **1.28M** in total sales with a **49.99% profit margin**, indicating strong overall profitability.
+- **Electronics** was the highest-performing product category, contributing the largest share of both sales and profit.
+- **Quinn Hall** ranked among the top customers in both total sales and total profit, highlighting the value of high-performing customers.
+- **Device O** was the best-selling and most profitable product, making it a key contributor to business performance.
+- Monthly sales remained relatively stable throughout the year, with a slight decline during the middle months followed by a recovery toward the end of the year.
 ---
 # 📈 Skills Demonstrated
 - SQL
