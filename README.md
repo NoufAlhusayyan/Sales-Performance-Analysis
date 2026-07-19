@@ -102,6 +102,12 @@ Features:
 ### Product Analysis
 ![Product Analysis](PowerBI/Screenshots/Product%20Analysis.png)
 ---
+# 📌 Key Insights
+- Electronics generated the highest sales.
+- A small group of customers contributed a significant portion of total profit.
+- Higher discounts were associated with lower profit margins.
+- Monthly sales showed noticeable seasonal fluctuations.
+---
 # 📈 Skills Demonstrated
 - SQL
 - Database Design
