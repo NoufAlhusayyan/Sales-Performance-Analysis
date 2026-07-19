@@ -95,7 +95,12 @@ Features:
 - Top N Analysis
 ---
 # 📷 Dashboard Preview
-Add screenshots of the dashboard in the **PowerBI/Screenshots** folder.
+### Executive Overview
+![Executive Overview](PowerBI/Screenshots/Executive%20Overview.png)
+### Customer Analysis
+![Customer Analysis](PowerBI/Screenshots/Customer%20Analysis.png)
+### Product Analysis
+![Product Analysis](PowerBI/Screenshots/Product%20Analysis.png)
 ---
 # 📈 Skills Demonstrated
 - SQL
